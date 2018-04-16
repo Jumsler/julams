@@ -18,7 +18,7 @@ body {
 	font-size: 70px;
 }
 
-.nav ul {
+.nav ul li {
 	color: black;
 	text-align: center;
 	font-family: 'Gaegu', cursive;
