@@ -10,7 +10,7 @@ body {
 
 
 
-#header ul {
+#header h1 {
 	color: black;
 	text-align: center;
 	padding: 30px;
@@ -18,7 +18,7 @@ body {
 	font-size: 70px;
 }
 
-.nav p {
+.nav ul {
 	color: black;
 	text-align: center;
 	font-family: 'Gaegu', cursive;
