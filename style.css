@@ -57,4 +57,7 @@ td {
 	text-align: left;
 }
 
-
+.table {
+	float: left;
+	width: 480px;
+}
