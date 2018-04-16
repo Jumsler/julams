@@ -22,6 +22,10 @@ body {
 	text-align: center;
 }
 
+.nav ul {
+	display: inline-table;
+}
+
 
   .nav li {
 	  float: left; /* Gets all list items in nav to appear on the same line */
@@ -30,6 +34,7 @@ body {
 	  font-family: 'Gaegu', cursive;
 	  font-size: 40px;
 	  list-style: none; 
+	  display: inline;
   }
 
 .nav li a {
