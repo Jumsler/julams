@@ -18,15 +18,12 @@ body {
 	font-size: 70px;
 }
 
-.nav ul li {
+.nav ul li a {
 	color: black;
 	text-align: center;
 	font-family: 'Gaegu', cursive;
 	font-size: 60px;
 	list-style: none;
+	text-decoration: none;
 }
 
-a {
-    color: black;
-    text-decoration: none;
-}
