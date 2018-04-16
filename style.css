@@ -21,11 +21,11 @@ body {
 .nav p {
 	color: black;
 	text-align: center;
-	font-family: 'Just Me Again Down Here', cursive;
+	font-family: 'Gaegu', cursive;
 	font-size: 70px;
 }
 
 a {
-    color: black;
+    color: gray;
     text-decoration: none;
 }
