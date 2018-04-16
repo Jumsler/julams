@@ -34,4 +34,18 @@ body {
 	text-align: center;
 }
 
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	
+}
+
+th, td {
+	padding: 20px;
+}
+
+td {
+	text-align: left;
+}
+
 
