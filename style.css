@@ -13,7 +13,7 @@ body {
 #header h1 {
 	color: black;
 	text-align: center;
-	padding: 30px;
+	padding: 10px;
 	font-family: 'Gaegu', cursive;
 	font-size: 70px;
 }
@@ -22,7 +22,7 @@ body {
 	color: black;
 	text-align: center;
 	font-family: 'Gaegu', cursive;
-	font-size: 60px;
+	font-size: 55px;
 	list-style: none;
 	text-decoration: none;
 }
