@@ -1,0 +1,36 @@
+body {
+    background-image: url("bg.jpg");
+}
+
+#header h1 {
+	color: black;
+	text-align: center;
+	padding: 2px;
+	font-family: 'Gaegu', cursive;
+	font-size: 65px;
+}
+
+.nav {
+	text-align: center;
+}
+
+.nav ul {
+	display: inline-table;
+}
+
+
+  .nav li {
+	  float: left; /* Gets all list items in nav to appear on the same line */
+	  margin-right: 60px; /*Provides a gap petween each list item */
+	  text-align: center;
+	  font-family: 'Gaegu', cursive;
+	  font-size: 40px;
+	  list-style: none; 
+	  display: inline;
+  }
+
+.nav li a {
+	text-decoration: none;
+	color: black;
+	text-align: center;
+}
