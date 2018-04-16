@@ -27,3 +27,12 @@ body {
 	text-decoration: none;
 }
 
+.nav ul li {
+	color: black;
+	text-align: center;
+	font-family: 'Gaegu', cursive;
+	font-size: 60px;
+	list-style: none;
+	text-decoration: none;
+}
+
