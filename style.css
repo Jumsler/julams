@@ -3,10 +3,6 @@ body {
     background-image: url("bg.jpg");
 }
 
-.content, .content2 {
-	float: left;
-	width: 480px;
-}
 
 
 
