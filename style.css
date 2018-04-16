@@ -10,3 +10,10 @@ body {
 	font-family: 'Gaegu', cursive;
 	font-size: 70px;
 }
+
+.nav p {
+	color: black;
+	text-align: center;
+	padding: 15px;
+	font-family: 'Libre Barcode 128 Text', cursive;
+}
