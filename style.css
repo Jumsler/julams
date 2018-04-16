@@ -3,6 +3,13 @@ body {
     background-image: url("bg.jpg");
 }
 
+.content, .content2 {
+	float: left;
+	width: 480px;
+}
+
+
+
 #header h1 {
 	color: black;
 	text-align: center;
@@ -15,7 +22,7 @@ body {
 	color: black;
 	text-align: center;
 	padding: 7px;
-	font-family: 'Libre Barcode 39 Extended', cursive;
+	font-family: 'Nanum Brush Script', cursive;
 	font-size: 70px;
 }
 
