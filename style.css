@@ -11,7 +11,7 @@ body {
 
 
 #header h1 {
-	background-color: white;
+	ba
 	color: black;
 	text-align: center;
 	padding: 10px;
@@ -36,4 +36,11 @@ body {
 	list-style: none;
 	text-decoration: none;
 }
+
+  #nav li {
+	  float: left; /* Gets all list items in nav to appear on the same line */
+	  list-style: none; /* Eliminates all the bullet points */
+	  margin-right: 60px; /*Provides a gap petween each list item */
+  }
+
 
