@@ -21,7 +21,6 @@ body {
 
   .nav li {
 	  float: left; /* Gets all list items in nav to appear on the same line */
-	  list-style: none; /* Eliminates all the bullet points */
 	  margin-right: 60px; /*Provides a gap petween each list item */
 	  text-align: center;
 	  font-family: 'Gaegu', cursive;
@@ -31,6 +30,7 @@ body {
 .nav li a {
 	text-decoration: none;
 	color: black;
+	list-style: none; 
 }
 
 
