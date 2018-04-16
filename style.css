@@ -18,6 +18,10 @@ body {
 	font-size: 65px;
 }
 
+.nav {
+	text-align: center;
+}
+
 
   .nav li {
 	  float: left; /* Gets all list items in nav to appear on the same line */
