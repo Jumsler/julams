@@ -42,7 +42,7 @@ body {
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
-	
+	text-align: center;
 }
 
 th, td {
@@ -64,3 +64,4 @@ td {
 h4 {
 	text-align: center;
 }
+
