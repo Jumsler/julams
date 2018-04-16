@@ -1,0 +1,12 @@
+
+body {
+    background-image: url("bg.jpg");
+}
+
+#header h1 {
+	color: black;
+	text-align: center;
+	padding: 30px;
+	font-family: 'Gaegu', cursive;
+	font-size: 70px;
+}
