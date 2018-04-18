@@ -80,7 +80,7 @@ tr:nth-child(odd) {
   	right: 0;
   	bottom: 0;
   	left: 0;
-  	padding: 1rem;
+  	padding: 10px;
   	background-color: #efefef;
   	text-align: center;
 }
